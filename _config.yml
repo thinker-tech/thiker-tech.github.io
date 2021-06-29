@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   1 podcast, 5 appassionati, 1000 pensieri. Benvenuti nel podcast 
   di Thinker Tech, il posto dove tecnologia, informatica e 4 
   chiacchiere prendono vita!
-baseurl: "ga_blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ThinkerTechCast
 github_username:  thinker-tech
